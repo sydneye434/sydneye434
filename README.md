@@ -13,7 +13,7 @@ The ATO work is where a lot of this comes together in practice. I reversed a fai
 
 I've grown and led teams of up to 10 engineers, run Scrum of Scrums across 7 teams, and tried to leave every codebase and pipeline I've touched in better shape than I found it.
 
-The projects here are a mix of work tools and things I built because I wanted to. I build outside of work too — it's how I learn.
+The projects here are a mix of work tools and things I built because I wanted to. I build outside of work too! It's fun and how I learn.
 
 ---
 
