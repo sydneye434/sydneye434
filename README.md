@@ -53,6 +53,7 @@ The projects here are a mix of work tools and things I built because I wanted to
 | [the-ruck](https://github.com/sydneye434/the-ruck) | Scrum-native project management tool built for agile teams (TypeScript) |
 | [mouse-mentor](https://github.com/sydneye434/mouse-mentor) | AI-powered Disney World vacation planning platform |
 | [magic-park-explorer](https://github.com/sydneye434/magic-park-explorer) | 3D theme park exploration game built in Unity |
+| [devsecops-pipeline-demo](https://github.com/sydneye434/devsecops-pipeline-demo) | DevSecOps Pipeline Demo |
 
 ---
 
